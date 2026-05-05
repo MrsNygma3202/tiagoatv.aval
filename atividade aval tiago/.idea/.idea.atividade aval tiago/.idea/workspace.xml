@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef6c111e-d405-408d-bf86-812a430e4947" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MenuPrincipal.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MenuPrincipal.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/_Boot.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/_Boot.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Mobile_RPAsset.asset" afterDir="false" />
-    </list>
+    <list default="true" id="ef6c111e-d405-408d-bf86-812a430e4947" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,6 +95,7 @@
       <workItem from="1777287768459" duration="17000" />
       <workItem from="1777287854604" duration="889000" />
       <workItem from="1777383880930" duration="1911000" />
+      <workItem from="1777985099116" duration="13000" />
     </task>
     <servers />
   </component>
